@@ -2,7 +2,7 @@
 <template>
 <div class='main'>
     <header>1</header>
-    <div>2</div>
+    <router-link to="/login">登录</router-link>
     <footer>3</footer>
 </div>
 </template>
